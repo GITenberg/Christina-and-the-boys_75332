@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8569'
     url: http://www.gutenberg.org/2009/agents/8569
     wikipedia: https://en.wikipedia.org/wiki/Gordon_Browne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Feuvre, Amy
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '3736'
     url: http://www.gutenberg.org/2009/agents/3736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75332#Christina-and-the-boys
 gutenberg_issued: '2025-02-10'
 gutenberg_type: Text
 identifiers:
